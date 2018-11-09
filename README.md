@@ -82,7 +82,7 @@ $ sudo apt-get install cassandra
 
 ### Using Apache Cassandra
 
-To open the command shell of cassandra you can use the follwing command:
+To open the command shell of cassandra you can use the following command:
 
 ```
 $ cqlsh
